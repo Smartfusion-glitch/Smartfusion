@@ -1,6 +1,6 @@
-# Smartfusion
+# Tech Arena 
 
-Name of the App: "smart fusion"
+Name of the App: "Tech Arena"
 Purpose: To revolutionize how people interact with and learn about gadgets.
 Problem Statement
 Current Issue: Consumers often struggle to find reliable, detailed, and engaging information about new gadgets. They can't try out gadgets before buying, and there is no centralized platform that offers AR-based gadget exploration combined with comprehensive tech news and reviews.
